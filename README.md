@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I’m Nicole Anthony  
 
-<!--
-**nanthony80/nanthony80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧪 I’m a secondary science educator with expertise in biotechnology and molecular biology.  
 
-Here are some ideas to get you started:
+🧬 My independent research explores environmental DNA (eDNA) and molecular ecology. My first project, [repliSTREAM](https://github.com/nanthony80/repliSTREAM), replicates *Ballini et al. (2024)* and compares multiple bioinformatics pipelines (Barque, APSCALE, eDNA-Container App) for fish community analysis.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Recipient of the Prime Minister’s Award for Teaching Excellence in STEM (2018), I aim to connect cutting-edge biotechnology and molecular ecology with secondary science education.  
+
+🌱 Current interests: eDNA metabarcoding · molecular ecology · biodiversity monitoring · biotechnology
+
+📬 You can reach me at https://www.linkedin.com/in/nicolemarieanthony/
+
+---
